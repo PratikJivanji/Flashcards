@@ -1,10 +1,9 @@
 # Flashcards
-
 An app to test and improve memory.
 
 ## Tech/frameworks used
 ### API
-- .NET Core
+- .NET
 - ASP.NET Web API
 - SQL Server Express
 
